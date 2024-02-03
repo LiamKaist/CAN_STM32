@@ -1,0 +1,8 @@
+../Drivers/MOTOR_DC/motor_dc.c:14:14:Motor_Init	6
+../Drivers/MOTOR_DC/motor_dc.c:31:6:Motor_Start	1
+../Drivers/MOTOR_DC/motor_dc.c:35:6:Motor_Stop	1
+../Drivers/MOTOR_DC/motor_dc.c:39:6:Motor_Set_Speed	6
+../Drivers/MOTOR_DC/motor_dc.c:51:6:Motor_Set_Direction	3
+../Drivers/MOTOR_DC/motor_dc.c:60:6:Motor_Toggle_Direction	1
+../Drivers/MOTOR_DC/motor_dc.c:64:9:Motor_Get_Speed	6
+../Drivers/MOTOR_DC/motor_dc.c:68:9:Motor_Get_Direction	1
